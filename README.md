@@ -1,1 +1,1 @@
-# or-yang.samuel_daily_reports
+This repository contains my daily reports for the Python class.
